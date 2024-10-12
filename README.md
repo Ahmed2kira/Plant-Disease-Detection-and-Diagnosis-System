@@ -10,7 +10,7 @@
 - [Results](#results)
 - [Dataset](#dataset)
 - [Future Work](#future-work)
-
+- [Team Members](#team-members)
 ---
 
 ## Project Overview
@@ -117,4 +117,9 @@ The **Plant Disease Recognition System** has several avenues for future developm
 - **Mobile Application**: Developing a mobile version of the application to increase accessibility and convenience for users on the go.
 - **Enhanced User Interface**: Continuously improving the user experience by incorporating features such as tutorials, FAQs, and a community forum for plant care discussions.
 
+---
 
+## Team Members
+1. Ahmed Hamdy
+2. Youssef Ahmed
+3. George Bebawy
